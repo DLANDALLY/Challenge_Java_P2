@@ -2,8 +2,8 @@ package com.openclassrooms;
 
 import com.openclassrooms.entities.enums.Brand;
 import com.openclassrooms.store.Inventory;
-import com.openclassrooms.store.Mouse;
-import com.openclassrooms.store.Screen;
+import com.openclassrooms.entities.Mouse;
+import com.openclassrooms.entities.Screen;
 
 public class Main {
 

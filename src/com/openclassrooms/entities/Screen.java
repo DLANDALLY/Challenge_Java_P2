@@ -1,4 +1,4 @@
-package com.openclassrooms.store;
+package com.openclassrooms.entities;
 
 import com.openclassrooms.entities.enums.Brand;
 

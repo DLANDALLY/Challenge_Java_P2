@@ -1,5 +1,8 @@
 package com.openclassrooms.store;
 
+import com.openclassrooms.entities.Mouse;
+import com.openclassrooms.entities.Screen;
+
 public class Inventory {
 
     public Screen[] screens;
