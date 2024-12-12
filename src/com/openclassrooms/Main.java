@@ -1,5 +1,6 @@
 package com.openclassrooms;
 
+import com.openclassrooms.entities.enums.Brand;
 import com.openclassrooms.store.Inventory;
 import com.openclassrooms.store.Mouse;
 import com.openclassrooms.store.Screen;
